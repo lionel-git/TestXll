@@ -1,6 +1,8 @@
 // Added
 #if defined(BUILD_EXAMPLE)
 
+#pragma message("***** BUILDING EXMAPLE ******")
+
 /*
 **  File:           SAMPLE\EXAMPLES\EXAMPLE.C
 **  Description:    XLL SDK Example

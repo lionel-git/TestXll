@@ -1,5 +1,7 @@
 #if !defined(BUILD_EXAMPLE)
 
+#pragma message("***** BUILDING GENERIC ******")
+
 ///***************************************************************************
 // File:        GENERIC.C
 //
